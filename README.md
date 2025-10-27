@@ -4,12 +4,17 @@
 
 # 🚀 Dotnet + React + Postgresql DevOps Starter (CI/CD Ready)
 
-A production-ready **DevOps Starter Pack** for modern developers.
+A **production-ready DevOps Starter Pack** built for developers who want to ship fast, monitor easily, and deploy confidently.
 
-- 🐳 **Dockerized** backend & frontend
-- 🔄 **CI/CD** with GitHub Actions or GitLab
-- 📊 **Monitoring** (Prometheus + Grafana)
-- 🚀 Ready for local & cloud deployment
+Includes full CI/CD pipelines, Dockerized architecture, and integrated monitoring (Grafana + Prometheus).
+
+---
+
+## ⚙️ Key Features
+- 🐳 **Dockerized** backend & frontend  
+- 🔄 **CI/CD** with GitHub Actions or GitLab  
+- 📊 **Monitoring** (Prometheus + Grafana)  
+- 🚀 **Ready for local & cloud deployment**
 
 ---
 
@@ -18,11 +23,16 @@ A production-ready **DevOps Starter Pack** for modern developers.
 
 ---
 
+## 🏷️ Tags
+`dotnet` · `react` · `postgresql` · `devops` · `fullstack` · `docker` · `github-actions` · `cicd` · `grafana` · `prometheus` · `monitoring` · `csharp` · `template` · `starter`
+
+---
+
 ## 📦 Get the Pack
-➡️ **Gumroad**: https://jalalelb.gumroad.com/l/dotnet-react-postgresql
+➡️ **Gumroad**: [https://jalalelb.gumroad.com/l/dotnet-react-postgresql](https://jalalelb.gumroad.com/l/dotnet-react-postgresql)
 
 > Looking for all stacks?  
-> **DevOps Starters Collection** → https://github.com/JalalELB/devops-starters-collection
+> 👉 **DevOps Starters Collection** → [https://github.com/JalalELB/devops-starters-collection](https://github.com/JalalELB/devops-starters-collection)
 
 ---
 
